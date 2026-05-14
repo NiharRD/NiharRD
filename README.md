@@ -49,7 +49,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Vu3GmYb-s349oMNy70NAEYejHtcpNvTP/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1La5wnFCmah4J3Y39das6KkDKhi0CPsA4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a> &nbsp;
   <a href="https://linkedin.com/in/nihar-ranjan-das-72b331341" target="_blank">
