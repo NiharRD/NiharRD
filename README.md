@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **Gen AI, Cloud (AWS, GCP), High-Level System Design (HLD), Product Management**
 - 📫 How to reach me: **[niharranjandas008@gmail.com](mailto:niharranjandas008@gmail.com)**
-- ⚡ Fun fact: **I reply ridiculously fast on WhatsApp**
+- ⚡ Fun fact: **I reply fast on WhatsApp**
 
 ---
 
@@ -49,7 +49,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/file/d/1Vu3GmYb-s349oMNy70NAEYejHtcpNvTP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a> &nbsp;
   <a href="https://linkedin.com/in/nihar-ranjan-das-72b331341" target="_blank">
