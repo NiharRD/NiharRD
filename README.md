@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharrd&show_icons=true&locale=en" alt="niharrd" /></p>
 
-![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiharRD&show_icons=true&theme=radical)
+![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiharRD&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharrd&" alt="niharrd" /></p>
