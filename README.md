@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nihar-ranjan-das-72b331341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihar-ranjan-das-72b331341" height="30" width="40" /></a>
 <a href="https://instagram.com/niharranjandas008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niharranjandas008" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/801103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="801103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharrd&show_icons=true&locale=en&layout=compact" alt="niharrd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharrd&show_icons=true&locale=en" alt="niharrd" /></p>
+
+![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiharRD&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharrd&" alt="niharrd" /></p>
