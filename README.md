@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihar Ranjan Das</h1>
-<h3 align="center">B.Tech-MBA student at IIT Patna & IIM BG | Full-Stack Developer & Cloud Enthusiast</h3>
+<h3 align="center">B.Tech-MBA student at IIT Patna & IIM BG |  Developer & Product Enthusiast</h3>
 
 <p align="center">
   <em>Passionate about backend systems, cloud infrastructure, and business strategy, on a journey to become a Technical Program Manager.</em>
