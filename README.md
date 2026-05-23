@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihar Ranjan Das</h1>
-<h3 align="center">B.Tech-MBA student at IIT Patna & IIM BG |  Developer & Product Enthusiast</h3>
+<h3 align="center">B.Tech-MBA student at IIT Patna & IIM BG | Developer & Product Enthusiast</h3>
 
 <p align="center">
   <em>Passionate about backend systems, cloud infrastructure, and business strategy, on a journey to become a Technical Program Manager.</em>
@@ -27,7 +27,7 @@
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,nginx,postman&theme=dark" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,nginx,postman,langchain,langgraph&theme=dark" alt="DevOps & AI Tools" />
   </a>
 </p>
 
