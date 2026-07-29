@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech-MBA student at IIT Patna & IIM BG |  Developer & Product Enthusiast</h3>
 
 <p align="center">
-  <em>Passionate about backend systems, cloud infrastructure, and business strategy, on a journey to become a Technical Product Manager.</em>
+  <em>Passionate about backend systems, cyber security, cloud infrastructure, and business strategy, on a journey to become a Technical Product Manager.</em>
 </p>
 
 ---
